@@ -38,6 +38,8 @@ This matrix covers the Granite models listed in the source document.
 | `granite-4.0-h-micro` | 3B long-context instruct | 128K | Granite 4.0 enterprise assistant | RAG, document QA, tool-enabled business assistant, code assistance |
 | `granite-4.1-3b` | 3B long-context instruct | 131,072 | Primary agentic AI candidate | Tool-using agents, enterprise RAG, workflow automation, policy assistants |
 
+![Model Context Comparison](https://github.com/Jewelzufo/granite-slms/blob/main/assets%2Fmodel%20portfolio%20granite.jpg)
+
 ## Use Case Fit Matrix
 
 | Enterprise use case | `350m` | `1b` | `4.0-h-micro` | `4.1-3b` | Recommended default |
