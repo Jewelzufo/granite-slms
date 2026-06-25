@@ -346,6 +346,10 @@ Pair it with `granite-4.0-h-350m` and `granite-4.0-h-1b` for lower-cost routing,
 
 Use `granite-4.0-h-micro` where Granite 4.0 compatibility or 128K long-context behavior is required.
 
+## Model Cascade
+
+![Granite Model Cascade](https://raw.githubusercontent.com/Jewelzufo/granite-slms/main/assets/model%20cascade.jpg)
+
 > [!CAUTION]
 > Do not treat any model-card capability as a production guarantee. Validate every target workflow with enterprise-specific data, tool schemas, safety tests, and human escalation paths before deployment.
 
