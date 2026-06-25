@@ -64,6 +64,9 @@ This matrix covers the Granite models listed in the source document.
 | High-volume batch processing | Primary fit | Primary fit | Secondary fit | Secondary fit | `granite-4.0-h-350m` |
 | Safety or policy pre-screening | Secondary fit | Primary fit | Secondary fit | Secondary fit | Rules plus `granite-4.0-h-1b` |
 
+
+![Use Case Fit Matrix](https://github.com/Jewelzufo/granite-slms/blob/main/assets%2Fuse%20case%20matrix.jpg)
+
 ---
 
 ## Model-Specific Guidance
