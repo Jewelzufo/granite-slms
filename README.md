@@ -38,6 +38,8 @@ This matrix covers the Granite models listed in the source document.
 | `granite-4.0-h-micro` | 3B long-context instruct | 128K | Granite 4.0 enterprise assistant | RAG, document QA, tool-enabled business assistant, code assistance |
 | `granite-4.1-3b` | 3B long-context instruct | 131,072 | Primary agentic AI candidate | Tool-using agents, enterprise RAG, workflow automation, policy assistants |
 
+**Context Windows:**
+
 ![Model Context Comparison](https://github.com/Jewelzufo/granite-slms/blob/main/assets%2Fmodel%20portfolio%20granite.jpg)
 
 ## Use Case Fit Matrix
@@ -66,8 +68,6 @@ This matrix covers the Granite models listed in the source document.
 | High-volume batch processing | Primary fit | Primary fit | Secondary fit | Secondary fit | `granite-4.0-h-350m` |
 | Safety or policy pre-screening | Secondary fit | Primary fit | Secondary fit | Secondary fit | Rules plus `granite-4.0-h-1b` |
 
-
-**Context Windows:**
 
 ![Use Case Fit Matrix](https://github.com/Jewelzufo/granite-slms/blob/main/assets%2Fuse%20case%20matrix.jpg)
 
