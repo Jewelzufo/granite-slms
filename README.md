@@ -8,7 +8,7 @@ This document maps selected IBM Granite 4.0 & 4.1 small language models (350M-3B
 
 ## Scope
 
-This matrix covers the Granite models listed in the source document.
+This matrix covers the Granite 4.0 & 4.1 models (350M-3B)
 
 | Model | Hugging Face model card |
 |---|---|
